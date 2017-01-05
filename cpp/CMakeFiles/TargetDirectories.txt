@@ -1,0 +1,3 @@
+/home/jiyao/nudo/cpp/CMakeFiles/detectFace.dir
+/home/jiyao/nudo/cpp/CMakeFiles/detectFaceFlip.dir
+/home/jiyao/nudo/cpp/dlib_build/CMakeFiles/dlib.dir
